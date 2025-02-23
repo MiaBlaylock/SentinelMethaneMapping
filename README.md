@@ -1,0 +1,1 @@
+A collection of jupyter notebooks exploring different sentinel satellite data capabilities to map methane concentrations using google earth engine.
